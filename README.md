@@ -1,1 +1,1 @@
-# da-sql-s3
+# Data Analytics Automation with SQL Server and Object Storage
